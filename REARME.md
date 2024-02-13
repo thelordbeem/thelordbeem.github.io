@@ -1,6 +1,9 @@
-|[banner](https://github.com/thelordbeem/thelordbeem.github.io)
-# My Lecture Noe
+![banner](https://picsum.photos/800/250)
 
-สำรหับนักศึกษา
+# สมุดบันทึก
 
+สำหรับรายวิชา [OOP](https://thelordbeem.github.io)
+
+![download banner](./big.jpg)
+ 
 อนุวัฒน์ ใกล้แก้ว
